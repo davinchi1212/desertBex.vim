@@ -1,6 +1,7 @@
-" Name:         desert
+" Name:         desertBex (desert)
 " Description:  Light background colorscheme.
 " Author:       Original author Hans Fugal <hans@fugal.net>
+" Edited By :   davinchi1212
 " Maintainer:   Original maintainer Hans Fugal <hans@fugal.net>
 " Website:      https://github.com/vim/colorschemes
 " License:      Same as Vim
